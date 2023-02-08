@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zunaira9232
+- 👋 Hi, I’m @ZunairaGhaffar
 - 👀 I’m interested in web Development.
 - 🌱 I’m currently learning Frontend Development.
 - 💞️ I’m looking to collaborate on Development projects.
